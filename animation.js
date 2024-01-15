@@ -78,7 +78,7 @@ var tagUiUx = Bodies.rectangle(containerWidth / 2 + 150, 500, 164, 56, {
     render: {
       sprite: {
         texture:
-          "https://uploads-ssl.webflow.com/64f41ea3b31af27272713c03/64f47541d38f6886e5747c1d_uiux.svg",
+          "https://robogentlenam.github.io/robology-webanimation/Tag.svg",
         xScale: 1,
         yScale: 1
       }
@@ -89,7 +89,7 @@ var tagUiUx = Bodies.rectangle(containerWidth / 2 + 150, 500, 164, 56, {
     render: {
       sprite: {
         texture:
-          "https://uploads-ssl.webflow.com/64f41ea3b31af27272713c03/64f47540055ab00edffa0a68_wordpress.svg",
+          "https://robogentlenam.github.io/robology-webanimation/Tag-1.svg",
         xScale: 1,
         yScale: 1
       }
@@ -100,7 +100,7 @@ var tagUiUx = Bodies.rectangle(containerWidth / 2 + 150, 500, 164, 56, {
     render: {
       sprite: {
         texture:
-          "https://uploads-ssl.webflow.com/64f41ea3b31af27272713c03/64f475405a7c8ff69c27ed37_webflow.svg",
+          "https://robogentlenam.github.io/robology-webanimation/Tag-2.svg",
         xScale: 1,
         yScale: 1
       }
@@ -111,7 +111,7 @@ var tagUiUx = Bodies.rectangle(containerWidth / 2 + 150, 500, 164, 56, {
     render: {
       sprite: {
         texture:
-          "https://uploads-ssl.webflow.com/64f41ea3b31af27272713c03/64f47540c9a2047edbb293d1_whitelevel.svg",
+          "https://robogentlenam.github.io/robology-webanimation/Tag-3.svg",
         xScale: 1,
         yScale: 1
       }
@@ -128,7 +128,7 @@ var tagUiUx = Bodies.rectangle(containerWidth / 2 + 150, 500, 164, 56, {
       render: {
         sprite: {
           texture:
-            "https://uploads-ssl.webflow.com/64f41ea3b31af27272713c03/64f47540487abf2c397d777f_webflow-green.svg",
+            "https://robogentlenam.github.io/robology-webanimation/Tag-4.svg",
           xScale: 1,
           yScale: 1
         }
@@ -140,7 +140,7 @@ var tagUiUx = Bodies.rectangle(containerWidth / 2 + 150, 500, 164, 56, {
     render: {
       sprite: {
         texture:
-          "https://uploads-ssl.webflow.com/64f41ea3b31af27272713c03/64f475407ebe06e52f9283d1_sass.svg",
+          "https://robogentlenam.github.io/robology-webanimation/Tag-5.svg",
         xScale: 1,
         yScale: 1
       }
@@ -151,7 +151,7 @@ var tagUiUx = Bodies.rectangle(containerWidth / 2 + 150, 500, 164, 56, {
     render: {
       sprite: {
         texture:
-          "https://uploads-ssl.webflow.com/64f41ea3b31af27272713c03/64f47540f762b61424410849_web.svg",
+          "https://robogentlenam.github.io/robology-webanimation/Tag-6.svg",
         xScale: 1,
         yScale: 1
       }
@@ -162,7 +162,7 @@ var tagUiUx = Bodies.rectangle(containerWidth / 2 + 150, 500, 164, 56, {
     render: {
       sprite: {
         texture:
-          "https://uploads-ssl.webflow.com/64f41ea3b31af27272713c03/64f475402ae28c15adeba62f_startup.svg",
+          "https://robogentlenam.github.io/robology-webanimation/Tag-7.svg",
         xScale: 1,
         yScale: 1
       }
@@ -174,7 +174,7 @@ var tagUiUx = Bodies.rectangle(containerWidth / 2 + 150, 500, 164, 56, {
     render: {
       sprite: {
         texture:
-          "https://uploads-ssl.webflow.com/64f41ea3b31af27272713c03/64f47540f86ad4f4175a1e69_maintence.svg",
+          "https://robogentlenam.github.io/robology-webanimation/Tag-8.svg",
         xScale: 1,
         yScale: 1
       }
@@ -185,7 +185,7 @@ var tagUiUx = Bodies.rectangle(containerWidth / 2 + 150, 500, 164, 56, {
     render: {
       sprite: {
         texture:
-          "https://uploads-ssl.webflow.com/64f41ea3b31af27272713c03/64f47540035d9b03fc33e447_integration.svg",
+          "https://robogentlenam.github.io/robology-webanimation/Tag-9.svg",
         xScale: 1,
         yScale: 1
       }
@@ -196,7 +196,7 @@ var tagUiUx = Bodies.rectangle(containerWidth / 2 + 150, 500, 164, 56, {
     render: {
       sprite: {
         texture:
-          "https://uploads-ssl.webflow.com/64f41ea3b31af27272713c03/64f475405a7c8ff69c27ed00_motion.svg",
+          "https://robogentlenam.github.io/robology-webanimation/Tag-10.svg",
         xScale: 1,
         yScale: 1
       }
@@ -207,7 +207,7 @@ var tagUiUx = Bodies.rectangle(containerWidth / 2 + 150, 500, 164, 56, {
     render: {
       sprite: {
         texture:
-          "https://uploads-ssl.webflow.com/64f41ea3b31af27272713c03/64f475406ef461a95eaa0f12_pay.svg",
+          "https://robogentlenam.github.io/robology-webanimation/Tag-11.svg",
         xScale: 1,
         yScale: 1
       }
@@ -218,7 +218,7 @@ var tagUiUx = Bodies.rectangle(containerWidth / 2 + 150, 500, 164, 56, {
     render: {
       sprite: {
         texture:
-          "https://uploads-ssl.webflow.com/64f41ea3b31af27272713c03/64f47540f86ad4f4175a1df1_gsap.svg",
+          "https://robogentlenam.github.io/robology-webanimation/Tag-12.svg",
         xScale: 1,
         yScale: 1
       }
@@ -229,7 +229,7 @@ var tagUiUx = Bodies.rectangle(containerWidth / 2 + 150, 500, 164, 56, {
     render: {
       sprite: {
         texture:
-          "https://uploads-ssl.webflow.com/64f41ea3b31af27272713c03/64f475407a05afc618131310_figma.svg",
+          "https://robogentlenam.github.io/robology-webanimation/Tag-13.svg",
         xScale: 1,
         yScale: 1
       }
@@ -240,7 +240,7 @@ var tagUiUx = Bodies.rectangle(containerWidth / 2 + 150, 500, 164, 56, {
     render: {
       sprite: {
         texture:
-          "https://uploads-ssl.webflow.com/64f41ea3b31af27272713c03/64f47540bfb0eee6858d556a_migration.svg",
+          "https://robogentlenam.github.io/robology-webanimation/Tag-14.svg",
         xScale: 1,
         yScale: 1
       }
